@@ -4,7 +4,7 @@ const Kaniah = {
   pronouns: She | Her | Hers,
   code: [Python, Javascript, PHP, HTML, CSS],
   tools: [React, Node, Docker],
-  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+  challenge: "I am currently doing a codewar a day, with focus on building my Python and SQL skills."
 }
 ```
 <!--
