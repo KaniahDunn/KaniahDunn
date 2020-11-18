@@ -1,5 +1,12 @@
-### Hi there 👋
-
+### Hello, I'm Kaniah 👋🏾
+```
+const Kaniah = {
+  pronouns: She | Her | Hers,
+  code: [Python, Javascript, PHP, HTML, CSS],
+  tools: [React, Node, Docker],
+  challenge: "I am doing the #100DaysOfCode challenge focused on react and typescript"
+}
+```
 <!--
 **KaniahDunn/KaniahDunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
