@@ -1,24 +1,5 @@
 ### Hello, I'm Kaniah 👋🏾
-```
-const Kaniah = {
-  pronouns: She | Her | Hers,
-  code: [Python, Javascript, PHP, HTML, CSS],
-  tools: [React, Node, Docker],
-  challenge: "I am currently doing a codewar a day, with focus on building my Python and SQL skills."
-}
-```
-<img align="right" width="100" height="100" src="https://github.com/KaniahDunn/KaniahDunn/blob/main/github_readme.png">
-<!--
-**KaniahDunn/KaniahDunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img align='right' src="https://github.com/KaniahDunn/KaniahDunn/blob/main/github_readme.png" width="230">
+<p><em>Software Enginner at <a href="">Wayfair</a><img src="" width=""></br>Alumni of <a href="http://www.resilientcoders.org/">Resilient Coders</a>
+</em></p>
