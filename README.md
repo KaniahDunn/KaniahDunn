@@ -7,6 +7,7 @@ const Kaniah = {
   challenge: "I am currently doing a codewar a day, with focus on building my Python and SQL skills."
 }
 ```
+<img align="right" width="100" height="100" src="file:///Users/kaniahdunn/Desktop/github_readme.png">
 <!--
 **KaniahDunn/KaniahDunn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
