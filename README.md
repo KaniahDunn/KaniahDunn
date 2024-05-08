@@ -8,6 +8,8 @@
 ⭐️  Ask me about Python, React and Javascript  
 
 ⭐️  Reach me at kaniahdunn@gmail.com
+
+
 [![GitHub Streak](https://streak-stats.demolab.com/?user=KaniahDunn)](https://git.io/streak-stats)
 
 <img align='right' src="https://github.com/KaniahDunn/KaniahDunn/blob/main/github_readme.png" width="220">
