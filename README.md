@@ -1,17 +1,35 @@
-### ⭐️ Hello, I'm Kaniah 👋🏾 ⭐️  
+# Hello, I'm Kaniah 👋🏾 
 
+I am a Software Engineer, who is passionate about learning, social-justice and racial equity. I believe in building a more equitable future as well as building more inculusive developer experience for people who come from marginalized communites.
 
-⭐️  I am a full-stack software engineer, who is passionate about learning, social-justice and racial equity. I believe in building a more equitable future as well as building more inculusive developer experience for people who come from marginalized communites.   
+## 🔧 Technologies & Tools
 
-⭐️  My pronouns are she/her/hers  
+- **Languages:** JavaScript, TypeScript, HTML, CSS, Python
+- **Frameworks:** React, Vue.js, Angular
+- **Tools:** Git, Webpack, Docker
+- **Databases:** Firebase, MongoDB, PostgreSQL
+- **Design:** Figma, Adobe XD, Sketch
 
-⭐️  Ask me about Python, React and Javascript  
-
-⭐️  Reach me at kaniahdunn@gmail.com
-
+## 📈 GitHub Stats
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=KaniahDunn)](https://git.io/streak-stats)
 
-<img align='right' src="https://github.com/KaniahDunn/KaniahDunn/blob/main/github_readme.png" width="220">
-<p><em>Software Enginner at <a href="">Wayfair</a></br>Alumni of <a href="http://www.resilientcoders.org/">Resilient Coders</a>
-</em></p>
+## 🌱 Currently Learning
+
+I'm currently learning more about accessibility in web development, improving my skills in TypeScript, and exploring progressive web apps (PWAs).
+
+## 📫 How to Reach Me
+
+- [LinkedIn](https://www.linkedin.com/in/kaniahdunn/)
+- [Twitter](https://twitter.com/kaniahdunn)
+- [Email](mailto:kaniahdunn@gmail.com)
+
+
+## 🎉 Fun Fact
+
+I love hiking and exploring new places, and I'm always on the lookout for the next adventure!
+
+---
+
+Thank you for visiting my profile! Feel free to reach out if you want to collaborate on any project or just say hi! 😊
+
