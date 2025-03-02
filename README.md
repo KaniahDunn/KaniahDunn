@@ -10,10 +10,6 @@ I am a Software Engineer, who is passionate about learning, social-justice and r
 - **Databases:** Firebase, MongoDB, PostgreSQL
 - **Design:** Figma, Adobe XD, Sketch
 
-## 📈 GitHub Stats
-
-[![GitHub Streak](https://streak-stats.demolab.com/?user=KaniahDunn)](https://git.io/streak-stats)
-
 ## 🌱 Currently Learning
 
 I'm currently learning more about accessibility in web development, improving my skills in TypeScript, and exploring progressive web apps (PWAs).
